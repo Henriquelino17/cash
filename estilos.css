@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://www.shutterstock.com/image-photo/biological-purification-water-sewage-treatment-plant-1690283533");
+  
+  background-color: #B8860B;
+  background-size: 60;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+  padding: 15px;
+  top: 0px;
+}
+h2 {
+  text-align: center;
+  background: transparent;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+}
+.botao01 {
+  color: #000000;
+  text-decoration: none;
+  margin-top: 80px;
+}
