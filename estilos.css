@@ -5,7 +5,7 @@ body {
   background-image: url("https://www.matecindustries.com/wp-content/uploads/2020/09/espessador-de-alta-densidade-matec.jpg");
   
   background-color: #B8860B;
-  background-size: 60;
+  background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
 }
